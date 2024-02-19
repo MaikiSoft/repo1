@@ -3,6 +3,21 @@ img{
 }
 
 .titulo{
-    font-size: 50px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(0, 0, 255, 0.356);
+    font-family:Georgia, Times, 'Times New Roman', serif;
+
+}
+
+
+.c2{
+    background-color: aqua;
+    }
+
+.parrafo{
+    font-family: monospace;
+    font-style: oblique;
+}
+
+#p1{
+ font-size: 20px;
 }
